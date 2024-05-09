@@ -1,5 +1,5 @@
 # Hello, I'm Miles Maxie 
-<a href="www.linkedin.com/in/miles-maxie-84b313299"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/miles-maxie-84b313299/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Cybersecurity Student with an interest in digital forensics and incident response. I am building my Security Analyst skills through various certifications, and hands-on projects/labs.	
