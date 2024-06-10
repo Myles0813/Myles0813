@@ -29,12 +29,7 @@ My studies in Cybersecurity have led me to develop a passion for Security Operat
 
 
 ## Tool Proficiencies
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-
-</div>  
+ 
 
 
 ### Network
