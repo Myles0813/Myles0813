@@ -36,7 +36,6 @@ My studies in Cybersecurity have led me to develop a passion for Security Operat
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Snort-FF5733?&style=for-the-badge&logo=Snort&logoColor=white" />
-
 </div>
 
 
@@ -49,5 +48,11 @@ My studies in Cybersecurity have led me to develop a passion for Security Operat
 ### Vulnerability Scanners
 <div>
    <img src="https://img.shields.io/badge/-Nessus-000000?&style=for-the-badge&logo=Nessus&logoColor=white" />
+</div>
 
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-macOS-000000?&style=for-the-badge&logo=Apple&logoColor=white" />
 </div>
