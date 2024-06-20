@@ -9,7 +9,7 @@ My studies in Cybersecurity have led me to develop a passion for Security Operat
 #
 <h2>👨‍💻 Projects & Labs:</h2>
 
-| Projects & Labs                                      | Tools       |
+| Projects & Labs                                      | Tools Used      |
 |-----------------------------------------------|----------------------------|
 |  [Detection & Monitoring Lab](https://github.com/Myles0813/Active-Directory-Lab)   | <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=00B4AB" /> <img src="https://img.shields.io/badge/-Sysmon-000000?style=for-the-badge&logo=Windows&logoColor=0078D6" />  <img src="https://img.shields.io/badge/-Kali Linux-557C94?&style=for-the-badge&logo=Kali Linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Active Directory-0052cc?&style=for-the-badge&logo=Active Directory&logoColor=white" />
 |  [Vulnerability Scan Lab](https://github.com/Myles0813/Vulnerability-Scan-and-Remediation/blob/main/README.md)  |<img src="https://img.shields.io/badge/-Nessus-000000?&style=for-the-badge&logo=Nessus&logoColor=white" />
