@@ -7,7 +7,7 @@ Cybersecurity Student with an interest in digital forensics and incident respons
 
 My studies in Cybersecurity have led me to develop a passion for Security Operations, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 #
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Projects & Labs:</h2>
 
 | Projects & Labs                                      | Tools       |
 |-----------------------------------------------|----------------------------|
