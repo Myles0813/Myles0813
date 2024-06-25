@@ -8,11 +8,15 @@ Cybersecurity Student with an interest in digital forensics and incident respons
 My studies in Cybersecurity have led me to develop a passion for Security Operations, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 #
 
-## Certifications
+## Certifications and Certificates
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-thebadge&logo=CompTIA&logoColor=white" /> <img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?&style=for-thebadge&logo=google&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-thebadge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20IT%20Support-4285F4?&style=for-thebadge&logo=google&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-TryhackMe%20SOC%201-FF0000?style=for-thebadge&logo=TryHackMe&logoColor=white" />
 </div>
+ 
+
 
 #
 <h2>👨‍💻 Projects & Labs:</h2>
