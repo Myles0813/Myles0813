@@ -28,7 +28,7 @@ My studies in Cybersecurity have led me to develop a passion for Security Operat
 #
 
 
-## Tool Proficiencies
+## Tools and Software
  
 
 
